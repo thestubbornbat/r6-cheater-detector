@@ -1,0 +1,1859 @@
+[
+    {
+        "id": "024e3096-b362-4491-b047-1fd115d529d6",
+        "share_id": "40049",
+        "type": "cheating",
+        "status": "denied",
+        "description": "cheating",
+        "is_overlay_report": false,
+        "views": 48,
+        "user": {
+            "id": "4df450ac-8860-4495-8c57-5ccb71f783d8",
+            "avatar": null,
+            "username": "francofuerte_01493",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 5,
+            "successful_report_count": 0,
+            "last_online": "2024-08-23T22:34:52+00:00",
+            "last_online_at": "2024-08-23T22:34:52+00:00"
+        },
+        "game_account": {
+            "id": "6773e51e-1059-4f25-9e9c-a351bf80bb09",
+            "game": "r6",
+            "display_name": "mAlwaysBetter",
+            "platform": "uplay",
+            "game_user_id": "c9e55032-6829-414c-a4a0-f100733adfb4",
+            "game_profile_id": "c9e55032-6829-414c-a4a0-f100733adfb4",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "59d27d6e-dc2f-4aeb-8d6f-975629a35da6",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/59d27d6e-dc2f-4aeb-8d6f-975629a35da6.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/59d27d6e-dc2f-4aeb-8d6f-975629a35da6.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-04T21:39:51+00:00"
+            },
+            {
+                "id": "0f09b4c4-243e-40a1-b04c-3d8ab6acc81b",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/0f09b4c4-243e-40a1-b04c-3d8ab6acc81b.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/0f09b4c4-243e-40a1-b04c-3d8ab6acc81b.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-04T21:41:06+00:00"
+            },
+            {
+                "id": "185f333b-36a4-4415-a1b1-833dfff443bd",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/185f333b-36a4-4415-a1b1-833dfff443bd.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/185f333b-36a4-4415-a1b1-833dfff443bd.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-04T21:42:09+00:00"
+            },
+            {
+                "id": "2a6e0123-6045-490b-aac6-9bb8a6b35860",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/2a6e0123-6045-490b-aac6-9bb8a6b35860.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/2a6e0123-6045-490b-aac6-9bb8a6b35860.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-04T21:42:10+00:00"
+            },
+            {
+                "id": "2d8d678e-ea97-4ec4-9428-b6d09cdc5f3f",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/2d8d678e-ea97-4ec4-9428-b6d09cdc5f3f.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/2d8d678e-ea97-4ec4-9428-b6d09cdc5f3f.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-04T21:42:21+00:00"
+            },
+            {
+                "id": "3f0b4270-e70a-4bf4-9b7b-9475a51d1ea5",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/3f0b4270-e70a-4bf4-9b7b-9475a51d1ea5.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/3f0b4270-e70a-4bf4-9b7b-9475a51d1ea5.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-04T21:43:31+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "53d9a613-0d4c-48ab-8a3c-5513ccac97ff",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-23T16:43:29+00:00",
+            "updated_at": "2024-08-23T16:43:29+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-23T16:43:29+00:00",
+        "created_at": "2024-08-21T12:24:08+00:00",
+        "updated_at": "2024-08-23T16:43:29+00:00"
+    },
+    {
+        "id": "5dcdf23b-bfa3-4d59-86b3-79e01e140c55",
+        "share_id": "41048",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Beelines me when I'm in basement.",
+        "is_overlay_report": false,
+        "views": 32,
+        "user": {
+            "id": "9a14bc60-4566-414f-b43f-9b06d53a7b7b",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/9a14bc60-4566-414f-b43f-9b06d53a7b7b_04f91941-0aa8-4c8f-b140-a58c23eeb23e",
+            "username": "aureliuslegion",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 6,
+            "comment_count": 18,
+            "successful_report_count": 1,
+            "last_online": "2024-08-25T07:03:17+00:00",
+            "last_online_at": "2024-08-25T07:03:17+00:00"
+        },
+        "game_account": {
+            "id": "a8b561a7-9071-4399-92ca-5a33e7507164",
+            "game": "r6",
+            "display_name": "Exifiy.",
+            "platform": "uplay",
+            "game_user_id": "d122d05e-d2e8-4247-b798-99f44ea2f6cf",
+            "game_profile_id": "d122d05e-d2e8-4247-b798-99f44ea2f6cf",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "cefa927e-9c62-433d-b4b4-f73afcc5bc48",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/cefa927e-9c62-433d-b4b4-f73afcc5bc48.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/cefa927e-9c62-433d-b4b4-f73afcc5bc48.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T06:09:45+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "27560c47-ebbd-42cc-a363-e61a9318cedc",
+            "message": "This user is already banned.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": -1,
+            "upvote_count": 0,
+            "downvote_count": 1,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-23T16:34:11+00:00",
+            "updated_at": "2024-08-23T16:34:11+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-23T16:34:11+00:00",
+        "created_at": "2024-08-21T06:10:22+00:00",
+        "updated_at": "2024-08-23T16:34:11+00:00"
+    },
+    {
+        "id": "de82d644-a568-42ec-8c8a-f17ca76225c6",
+        "share_id": "41042",
+        "type": "cheating",
+        "status": "denied",
+        "description": "new proof so i can report on ubi",
+        "is_overlay_report": false,
+        "views": 45,
+        "user": {
+            "id": "e026596b-0149-440b-ab85-1b058ea3796f",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/e026596b-0149-440b-ab85-1b058ea3796f_dae36602-fa8e-4f38-8d52-7a9d1e3c3e71",
+            "username": "ilipro",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 4,
+            "comment_count": 1,
+            "successful_report_count": 2,
+            "last_online": "2024-08-22T02:59:34+00:00",
+            "last_online_at": "2024-08-22T02:59:34+00:00"
+        },
+        "game_account": {
+            "id": "afe02332-d25e-42c3-898e-6042d77ad67b",
+            "game": "r6",
+            "display_name": "Jrneylol",
+            "platform": "uplay",
+            "game_user_id": "f6ac547a-d66e-458d-a8d9-246bed41e420",
+            "game_profile_id": "f6ac547a-d66e-458d-a8d9-246bed41e420",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "93988ce3-b06b-4007-817a-0dcb8cf8dbb2",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/93988ce3-b06b-4007-817a-0dcb8cf8dbb2.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/93988ce3-b06b-4007-817a-0dcb8cf8dbb2.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T03:15:03+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "709c25f1-b7ed-47a1-bfdd-3a9439ab4149",
+            "message": "This user is already banned. A rep ban doesn't stop the player from playing the game, it only provides awareness to other players.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-21T18:04:42+00:00",
+            "updated_at": "2024-08-21T18:04:42+00:00"
+        },
+        "vote_score": 1,
+        "upvote_count": 1,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-21T18:04:42+00:00",
+        "created_at": "2024-08-21T03:15:06+00:00",
+        "updated_at": "2024-08-21T18:04:42+00:00"
+    },
+    {
+        "id": "33038b36-a7a0-4cc4-9dd5-8cb18c393db5",
+        "share_id": "41040",
+        "type": "cheating",
+        "status": "denied",
+        "description": "My bad I posted the wrong clips.",
+        "is_overlay_report": false,
+        "views": 41,
+        "user": {
+            "id": "0da5ebd2-7bb0-4b18-b105-b0a44973a220",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/0da5ebd2-7bb0-4b18-b105-b0a44973a220_9ed4953e-e138-495f-8b6e-4540dcb2830e",
+            "username": "badbadman",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 2,
+            "comment_count": 4,
+            "successful_report_count": 0,
+            "last_online": "2024-08-25T09:12:46+00:00",
+            "last_online_at": "2024-08-25T09:12:46+00:00"
+        },
+        "game_account": {
+            "id": "7699e504-1928-4e5b-a38f-b3313e1f783e",
+            "game": "r6",
+            "display_name": "FlizzyFrags",
+            "platform": "uplay",
+            "game_user_id": "81b655aa-8ef0-4bed-99e5-cc32d23a9b92",
+            "game_profile_id": "81b655aa-8ef0-4bed-99e5-cc32d23a9b92",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "68a19633-892a-4a3d-bfcc-89468354c97c",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/68a19633-892a-4a3d-bfcc-89468354c97c.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/68a19633-892a-4a3d-bfcc-89468354c97c.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T02:52:06+00:00"
+            },
+            {
+                "id": "d380c601-5df1-4652-9c66-20a48eed0363",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/d380c601-5df1-4652-9c66-20a48eed0363.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/d380c601-5df1-4652-9c66-20a48eed0363.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T02:52:52+00:00"
+            },
+            {
+                "id": "3c614735-4176-4c14-b1fe-46a8db535fbe",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/3c614735-4176-4c14-b1fe-46a8db535fbe.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/3c614735-4176-4c14-b1fe-46a8db535fbe.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T02:53:29+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "3dd137dc-a5a0-4bdf-b10c-97792c73ad08",
+            "message": "This user is already banned.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-21T18:03:54+00:00",
+            "updated_at": "2024-08-21T18:03:54+00:00"
+        },
+        "vote_score": 1,
+        "upvote_count": 1,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-21T18:03:54+00:00",
+        "created_at": "2024-08-21T02:53:21+00:00",
+        "updated_at": "2024-08-21T18:03:54+00:00"
+    },
+    {
+        "id": "5e83a2dd-a2db-457c-9d1f-b32da9a249dc",
+        "share_id": "41034",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Hard cheating \"media Star\".",
+        "is_overlay_report": false,
+        "views": 47,
+        "user": {
+            "id": "0da5ebd2-7bb0-4b18-b105-b0a44973a220",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/0da5ebd2-7bb0-4b18-b105-b0a44973a220_9ed4953e-e138-495f-8b6e-4540dcb2830e",
+            "username": "badbadman",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 2,
+            "comment_count": 4,
+            "successful_report_count": 0,
+            "last_online": "2024-08-25T09:12:46+00:00",
+            "last_online_at": "2024-08-25T09:12:46+00:00"
+        },
+        "game_account": {
+            "id": "7699e504-1928-4e5b-a38f-b3313e1f783e",
+            "game": "r6",
+            "display_name": "FlizzyFrags",
+            "platform": "uplay",
+            "game_user_id": "81b655aa-8ef0-4bed-99e5-cc32d23a9b92",
+            "game_profile_id": "81b655aa-8ef0-4bed-99e5-cc32d23a9b92",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "60bd4bd8-053e-436a-ade4-502938ef9e09",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/60bd4bd8-053e-436a-ade4-502938ef9e09.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/60bd4bd8-053e-436a-ade4-502938ef9e09.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-21T01:24:27+00:00"
+            }
+        ],
+        "comment_count": 5,
+        "latest_comment": {
+            "id": "7a233a61-6424-4674-a1b3-65853ba6c320",
+            "message": "This user is already banned.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-21T18:02:49+00:00",
+            "updated_at": "2024-08-21T18:02:49+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-21T18:02:49+00:00",
+        "created_at": "2024-08-21T01:24:32+00:00",
+        "updated_at": "2024-08-21T18:02:49+00:00"
+    },
+    {
+        "id": "cfad9c41-132c-42ff-8441-8d081864d20e",
+        "share_id": "41023",
+        "type": "cheating",
+        "status": "denied",
+        "description": "bad try at hiding walls",
+        "is_overlay_report": false,
+        "views": 34,
+        "user": {
+            "id": "36872146-8011-4a4f-858b-d02f4942b2b3",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/36872146-8011-4a4f-858b-d02f4942b2b3_c5405a84-09d3-488b-a8ff-d5ca980365be",
+            "username": "dr.giovanni",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 4,
+            "comment_count": 0,
+            "successful_report_count": 1,
+            "last_online": "2024-08-23T20:00:17+00:00",
+            "last_online_at": "2024-08-23T20:00:17+00:00"
+        },
+        "game_account": {
+            "id": "d62ff7a0-e801-4dbb-bdf6-b67da022c0aa",
+            "game": "r6",
+            "display_name": "Matrodix",
+            "platform": "uplay",
+            "game_user_id": "553b4c16-3f49-4f77-948f-a4905ee2632a",
+            "game_profile_id": "553b4c16-3f49-4f77-948f-a4905ee2632a",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "e578f31c-08e5-43c7-acf7-60f54d7696e3",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/e578f31c-08e5-43c7-acf7-60f54d7696e3.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/e578f31c-08e5-43c7-acf7-60f54d7696e3.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-20T21:55:15+00:00"
+            },
+            {
+                "id": "f0891ffa-eb70-469b-8412-e0e60801c177",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/f0891ffa-eb70-469b-8412-e0e60801c177.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/f0891ffa-eb70-469b-8412-e0e60801c177.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T21:56:17+00:00"
+            },
+            {
+                "id": "1de48fd6-a21b-4b89-b9ee-722ba45a72b9",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/1de48fd6-a21b-4b89-b9ee-722ba45a72b9.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/1de48fd6-a21b-4b89-b9ee-722ba45a72b9.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T21:57:09+00:00"
+            },
+            {
+                "id": "57529275-5df7-4dad-8cd7-a9a1e3893696",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/57529275-5df7-4dad-8cd7-a9a1e3893696.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/57529275-5df7-4dad-8cd7-a9a1e3893696.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T21:57:39+00:00"
+            }
+        ],
+        "comment_count": 2,
+        "latest_comment": {
+            "id": "b5cb73d9-004b-485f-8a33-d88f9ac2fe38",
+            "message": "this guy isnt cheating just a bot who gets lucky lol",
+            "user": {
+                "id": "c7609a5e-3ccf-44b0-9d0e-58dbc3374ded",
+                "avatar": "https://media.reputation.gg/file/reputation-production/avatars/c7609a5e-3ccf-44b0-9d0e-58dbc3374ded_b3914cb6-5c7f-439a-aaf0-35f44cfdb66e",
+                "username": "sirgojo",
+                "roles": [],
+                "is_staff": false,
+                "is_admin": false,
+                "is_banned": false,
+                "is_overlay_user": false,
+                "report_count": 0,
+                "comment_count": 2,
+                "successful_report_count": 0,
+                "last_online": "2024-08-23T01:17:03+00:00",
+                "last_online_at": "2024-08-23T01:17:03+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-23T01:07:19+00:00",
+            "updated_at": "2024-08-23T01:07:19+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-21T17:52:00+00:00",
+        "created_at": "2024-08-20T21:57:58+00:00",
+        "updated_at": "2024-08-23T01:07:19+00:00"
+    },
+    {
+        "id": "411fc924-4418-481e-90bc-c8a30101c82e",
+        "share_id": "41018",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Blatantly cheating",
+        "is_overlay_report": false,
+        "views": 27,
+        "user": {
+            "id": "a763b07c-a0c4-48b3-9f3f-d2acb20205e1",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/a763b07c-a0c4-48b3-9f3f-d2acb20205e1_a3c6d5c6-5a34-4c42-9d6d-7f8e973bf731",
+            "username": "jorddannr6",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 0,
+            "successful_report_count": 1,
+            "last_online": "2024-08-24T22:35:39+00:00",
+            "last_online_at": "2024-08-24T22:35:39+00:00"
+        },
+        "game_account": {
+            "id": "50ed4bcb-137e-44c5-8344-418636f9335a",
+            "game": "r6",
+            "display_name": "MentalCrush90",
+            "platform": "uplay",
+            "game_user_id": "535aa5f2-21c2-431b-a54a-67d80b039ac0",
+            "game_profile_id": "535aa5f2-21c2-431b-a54a-67d80b039ac0",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "03a4bf01-925f-4b98-bea8-9b930aa2ca96",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/03a4bf01-925f-4b98-bea8-9b930aa2ca96.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/03a4bf01-925f-4b98-bea8-9b930aa2ca96.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T19:16:04+00:00"
+            },
+            {
+                "id": "12e6327e-488e-4720-af10-5e818a79b634",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/12e6327e-488e-4720-af10-5e818a79b634.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/12e6327e-488e-4720-af10-5e818a79b634.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T19:17:10+00:00"
+            },
+            {
+                "id": "f4e0b60a-0582-4e43-8cd5-f5c97179652e",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/f4e0b60a-0582-4e43-8cd5-f5c97179652e.jpg",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/f4e0b60a-0582-4e43-8cd5-f5c97179652e.jpg",
+                "mime_type": "image/jpeg",
+                "created_at": "2024-08-20T19:17:30+00:00"
+            },
+            {
+                "id": "7a1508dd-1f17-469d-adcc-28cf2d027636",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/7a1508dd-1f17-469d-adcc-28cf2d027636.jpg",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/7a1508dd-1f17-469d-adcc-28cf2d027636.jpg",
+                "mime_type": "image/jpeg",
+                "created_at": "2024-08-20T19:19:19+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "4b6c4be5-0f3a-49aa-b2cd-bf7c7f61fb6b",
+            "message": "This user is already banned.",
+            "user": {
+                "id": "db7303e1-ec6b-477a-ba12-bc4ff25b4c76",
+                "avatar": null,
+                "username": "Admin 2",
+                "roles": [
+                    "admin",
+                    "super-admin",
+                    "moderator"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 28,
+                "comment_count": 6464,
+                "successful_report_count": 27,
+                "last_online": "2024-08-25T02:33:26+00:00",
+                "last_online_at": "2024-08-25T02:33:26+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-21T17:47:56+00:00",
+            "updated_at": "2024-08-21T17:47:56+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-21T17:47:56+00:00",
+        "created_at": "2024-08-20T19:19:28+00:00",
+        "updated_at": "2024-08-21T17:47:56+00:00"
+    },
+    {
+        "id": "9a11a32b-3067-4117-83d1-6f1f77987d2d",
+        "share_id": "41014",
+        "type": "cheating",
+        "status": "denied",
+        "description": "cheat",
+        "is_overlay_report": false,
+        "views": 78,
+        "user": {
+            "id": "4c3fae24-64e6-4c71-a043-cf1fe69e44c5",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/4c3fae24-64e6-4c71-a043-cf1fe69e44c5_ae22eef2-17a5-443f-b2f0-781315af838f",
+            "username": "anthyme2449",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 20,
+            "comment_count": 0,
+            "successful_report_count": 9,
+            "last_online": "2024-08-24T12:39:53+00:00",
+            "last_online_at": "2024-08-24T12:39:53+00:00"
+        },
+        "game_account": {
+            "id": "dc46f970-afaa-47dc-b524-4aa37642379d",
+            "game": "r6",
+            "display_name": "StaIkur",
+            "platform": "uplay",
+            "game_user_id": "8c55fc10-9c0c-4caf-92e3-f3461c70edb2",
+            "game_profile_id": "8c55fc10-9c0c-4caf-92e3-f3461c70edb2",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "85274a09-dbe1-44d5-8b6e-3f95092b6779",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/85274a09-dbe1-44d5-8b6e-3f95092b6779.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/85274a09-dbe1-44d5-8b6e-3f95092b6779.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T15:32:55+00:00"
+            },
+            {
+                "id": "90a95a90-918f-44fd-bc24-33fb5a95d6b0",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/90a95a90-918f-44fd-bc24-33fb5a95d6b0.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/90a95a90-918f-44fd-bc24-33fb5a95d6b0.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-20T15:33:04+00:00"
+            },
+            {
+                "id": "73cd6910-dd0b-4d08-8002-6f837b6ddf45",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/73cd6910-dd0b-4d08-8002-6f837b6ddf45.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/73cd6910-dd0b-4d08-8002-6f837b6ddf45.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-20T15:33:07+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "358dffc1-7fdf-4370-b10c-c5f232239edf",
+            "message": "This user is already banned. A rep ban doesn't stop the player from playing the game, it only provides awareness to other players.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-20T15:48:09+00:00",
+            "updated_at": "2024-08-20T15:48:09+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-20T15:48:09+00:00",
+        "created_at": "2024-08-20T15:33:22+00:00",
+        "updated_at": "2024-08-20T15:48:09+00:00"
+    },
+    {
+        "id": "8c2af17a-53b1-45a0-97ea-423f606212e2",
+        "share_id": "41011",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Steeee3 cheatet",
+        "is_overlay_report": false,
+        "views": 60,
+        "user": {
+            "id": "923e12d3-d298-4c68-a808-a775767ad92b",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/923e12d3-d298-4c68-a808-a775767ad92b_d3b0f951-c63f-4acf-ae43-2ba10c2c3b7a",
+            "username": "erkan.ozm",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 1,
+            "comment_count": 1,
+            "successful_report_count": 0,
+            "last_online": "2024-08-23T15:55:09+00:00",
+            "last_online_at": "2024-08-23T15:55:09+00:00"
+        },
+        "game_account": {
+            "id": "e86a38b1-54dd-40c3-8af3-40d859daad18",
+            "game": "r6",
+            "display_name": "rhysmorris",
+            "platform": "uplay",
+            "game_user_id": "071fe7af-4c64-4493-b5ab-192718ffcc66",
+            "game_profile_id": "071fe7af-4c64-4493-b5ab-192718ffcc66",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "6ddaa46f-1b22-427d-bfef-5eb424345c7c",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/6ddaa46f-1b22-427d-bfef-5eb424345c7c.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/6ddaa46f-1b22-427d-bfef-5eb424345c7c.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-20T09:25:59+00:00"
+            },
+            {
+                "id": "783e2ea8-c0d5-43d0-9ad3-38366c76284b",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/783e2ea8-c0d5-43d0-9ad3-38366c76284b.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/783e2ea8-c0d5-43d0-9ad3-38366c76284b.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-20T09:26:45+00:00"
+            }
+        ],
+        "comment_count": 2,
+        "latest_comment": {
+            "id": "1af1fd1f-bbe7-401e-a20a-c772103075cd",
+            "message": "This user is already banned. A rep ban doesn't stop the player from playing the game, it only provides awareness to other players.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-20T11:40:32+00:00",
+            "updated_at": "2024-08-20T11:40:32+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-20T11:40:32+00:00",
+        "created_at": "2024-08-20T09:27:01+00:00",
+        "updated_at": "2024-08-20T11:40:32+00:00"
+    },
+    {
+        "id": "b9c40044-99a6-4410-893b-05f8cf82c483",
+        "share_id": "40995",
+        "type": "cheating",
+        "status": "denied",
+        "description": "He was walling and soft aiming. Not super obvious clips but his only Q'd with is already banned for cheating.",
+        "is_overlay_report": false,
+        "views": 31,
+        "user": {
+            "id": "ebc20bf9-73f8-4268-a803-474709cf0b47",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/ebc20bf9-73f8-4268-a803-474709cf0b47_311db819-e4f9-4140-8757-dc3b26d241d3",
+            "username": "zmart45",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 14,
+            "comment_count": 0,
+            "successful_report_count": 12,
+            "last_online": "2024-08-24T05:12:23+00:00",
+            "last_online_at": "2024-08-24T05:12:23+00:00"
+        },
+        "game_account": {
+            "id": "dc3525ad-b46a-422d-bd65-81f958062988",
+            "game": "r6",
+            "display_name": "chris.gunssss",
+            "platform": "uplay",
+            "game_user_id": "9f0f2eca-5ac3-4884-a432-2a11761a413d",
+            "game_profile_id": "9f0f2eca-5ac3-4884-a432-2a11761a413d",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "4c0626c5-6c89-48c0-a9b5-ddcebf0c0252",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/4c0626c5-6c89-48c0-a9b5-ddcebf0c0252.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/4c0626c5-6c89-48c0-a9b5-ddcebf0c0252.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T23:47:51+00:00"
+            },
+            {
+                "id": "c39940b6-b461-4b1d-9c21-41b6a09b8fdb",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/c39940b6-b461-4b1d-9c21-41b6a09b8fdb.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/c39940b6-b461-4b1d-9c21-41b6a09b8fdb.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T23:49:38+00:00"
+            },
+            {
+                "id": "7bf297d6-2e4d-4e6b-b0b8-711028737c11",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/7bf297d6-2e4d-4e6b-b0b8-711028737c11.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/7bf297d6-2e4d-4e6b-b0b8-711028737c11.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-19T23:51:50+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "26d930cd-62ca-416b-bf73-3eb285a232d9",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-20T11:28:04+00:00",
+            "updated_at": "2024-08-20T11:28:04+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-20T11:28:04+00:00",
+        "created_at": "2024-08-19T23:52:49+00:00",
+        "updated_at": "2024-08-20T11:28:04+00:00"
+    },
+    {
+        "id": "61dc6596-facd-4cef-9f55-6197dcf48f53",
+        "share_id": "40993",
+        "type": "cheating",
+        "status": "denied",
+        "description": "hacker",
+        "is_overlay_report": false,
+        "views": 59,
+        "user": {
+            "id": "df4d07c3-f986-40ac-803a-fe4a63527776",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/df4d07c3-f986-40ac-803a-fe4a63527776_0be13834-e6d0-488c-88cc-55c6b3c257f5",
+            "username": "djrober_280082",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 1,
+            "comment_count": 0,
+            "successful_report_count": 0,
+            "last_online": "2024-08-20T01:43:34+00:00",
+            "last_online_at": "2024-08-20T01:43:34+00:00"
+        },
+        "game_account": {
+            "id": "c6d08c2d-691d-4444-b0c9-dd763b5c1cd6",
+            "game": "r6",
+            "display_name": "Xabitsuu_",
+            "platform": "uplay",
+            "game_user_id": "680deb19-743f-4fbc-87fd-3cfa5ddd65fd",
+            "game_profile_id": "680deb19-743f-4fbc-87fd-3cfa5ddd65fd",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "3545076b-f2bb-4521-935b-ea200d0f5d03",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/3545076b-f2bb-4521-935b-ea200d0f5d03.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/3545076b-f2bb-4521-935b-ea200d0f5d03.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T22:25:09+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "f7163705-f86a-4326-bde9-213135bcabc9",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-20T11:26:53+00:00",
+            "updated_at": "2024-08-20T11:26:53+00:00"
+        },
+        "vote_score": 1,
+        "upvote_count": 1,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-20T11:26:53+00:00",
+        "created_at": "2024-08-19T22:25:24+00:00",
+        "updated_at": "2024-08-20T11:26:53+00:00"
+    },
+    {
+        "id": "c84149f2-db17-4ecd-a513-cb880ba738c8",
+        "share_id": "40987",
+        "type": "cheating",
+        "status": "denied",
+        "description": "so obvious",
+        "is_overlay_report": false,
+        "views": 60,
+        "user": {
+            "id": "340ff8bd-b2eb-4983-a5ea-a48fa3eae992",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/340ff8bd-b2eb-4983-a5ea-a48fa3eae992_b2aef75c-68e6-4d58-bca0-2bc94f3fce7d",
+            "username": "gzoff_",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 3,
+            "successful_report_count": 0,
+            "last_online": "2024-08-24T16:39:49+00:00",
+            "last_online_at": "2024-08-24T16:39:49+00:00"
+        },
+        "game_account": {
+            "id": "5dde0454-f1e1-41fe-8e25-8fc5d1701196",
+            "game": "r6",
+            "display_name": "Swatting.",
+            "platform": "uplay",
+            "game_user_id": "e2c564dc-50cb-440a-a1b8-ba333320e923",
+            "game_profile_id": "e2c564dc-50cb-440a-a1b8-ba333320e923",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "1835b5a3-be53-4385-9392-8ef3d64c290a",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/1835b5a3-be53-4385-9392-8ef3d64c290a.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/1835b5a3-be53-4385-9392-8ef3d64c290a.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T20:32:26+00:00"
+            }
+        ],
+        "comment_count": 3,
+        "latest_comment": {
+            "id": "239291b0-7a4a-4459-8f9a-a36e45bd6103",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T22:33:06+00:00",
+            "updated_at": "2024-08-19T22:33:06+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T22:33:06+00:00",
+        "created_at": "2024-08-19T20:32:29+00:00",
+        "updated_at": "2024-08-19T22:33:06+00:00"
+    },
+    {
+        "id": "456066e0-ac82-449d-8ebd-ad4531e084d8",
+        "share_id": "40986",
+        "type": "cheating",
+        "status": "denied",
+        "description": "there is scoreboard and video , its so obvious",
+        "is_overlay_report": false,
+        "views": 26,
+        "user": {
+            "id": "340ff8bd-b2eb-4983-a5ea-a48fa3eae992",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/340ff8bd-b2eb-4983-a5ea-a48fa3eae992_b2aef75c-68e6-4d58-bca0-2bc94f3fce7d",
+            "username": "gzoff_",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 3,
+            "successful_report_count": 0,
+            "last_online": "2024-08-24T16:39:49+00:00",
+            "last_online_at": "2024-08-24T16:39:49+00:00"
+        },
+        "game_account": {
+            "id": "ce31e113-f117-4d5d-a8b2-b53411c3f92d",
+            "game": "r6",
+            "display_name": "A7a_xatar",
+            "platform": "uplay",
+            "game_user_id": "741a9538-77e4-45ab-9d3d-59aac9c554ea",
+            "game_profile_id": "741a9538-77e4-45ab-9d3d-59aac9c554ea",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "ba7231e8-9577-4695-9f91-3e89116d70be",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/ba7231e8-9577-4695-9f91-3e89116d70be.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/ba7231e8-9577-4695-9f91-3e89116d70be.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-19T20:28:59+00:00"
+            },
+            {
+                "id": "2e60aab3-08f1-4c34-9b06-efca3d379c9d",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/2e60aab3-08f1-4c34-9b06-efca3d379c9d.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/2e60aab3-08f1-4c34-9b06-efca3d379c9d.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T20:30:14+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "7e5de3b9-3b5a-4773-867e-39e21565bad7",
+            "message": "It's not correct. Upload a screenshot of the scoreboard.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T22:32:02+00:00",
+            "updated_at": "2024-08-19T22:32:02+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T22:32:02+00:00",
+        "created_at": "2024-08-19T20:30:52+00:00",
+        "updated_at": "2024-08-19T22:32:02+00:00"
+    },
+    {
+        "id": "47dd3c69-8009-4418-997e-a0b9d25ff38c",
+        "share_id": "40982",
+        "type": "cheating",
+        "status": "denied",
+        "description": "we came across this big cheater so I put you this video take the time to watch carefully\n\nhis nickname was me-on-top34",
+        "is_overlay_report": false,
+        "views": 128,
+        "user": {
+            "id": "76a614c1-aadf-4901-bfc0-f7ab6d9a633c",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/76a614c1-aadf-4901-bfc0-f7ab6d9a633c_45b5269d-bf19-419c-94ff-bb0c698d4c08",
+            "username": "amirgorgin",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 4,
+            "comment_count": 3,
+            "successful_report_count": 1,
+            "last_online": "2024-08-25T15:37:00+00:00",
+            "last_online_at": "2024-08-25T15:37:00+00:00"
+        },
+        "game_account": {
+            "id": "4808eaa2-eaf8-4c5a-9fcc-c372ec9e8b92",
+            "game": "r6",
+            "display_name": "MxTMateo",
+            "platform": "uplay",
+            "game_user_id": "9fbf802a-4b79-48d2-b617-5cc039f852a2",
+            "game_profile_id": "9fbf802a-4b79-48d2-b617-5cc039f852a2",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "a6c66cc2-db3e-4080-8907-4dc8337f97e7",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/a6c66cc2-db3e-4080-8907-4dc8337f97e7.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/a6c66cc2-db3e-4080-8907-4dc8337f97e7.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T19:21:44+00:00"
+            }
+        ],
+        "comment_count": 4,
+        "latest_comment": {
+            "id": "7c96d2d7-74f5-4503-aa62-a6f47a5591db",
+            "message": "Phone recordings are not allowed.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:26:16+00:00",
+            "updated_at": "2024-08-19T20:26:16+00:00"
+        },
+        "vote_score": 2,
+        "upvote_count": 2,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:26:16+00:00",
+        "created_at": "2024-08-19T19:24:27+00:00",
+        "updated_at": "2024-08-19T20:26:16+00:00"
+    },
+    {
+        "id": "e6e30bbd-4674-4b1e-b533-d342b6e59728",
+        "share_id": "40980",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Constantly doing the most random pre fires and just magic bulleted me?",
+        "is_overlay_report": false,
+        "views": 25,
+        "user": {
+            "id": "36b96a27-9c00-42a3-9771-6bda06b8d182",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/36b96a27-9c00-42a3-9771-6bda06b8d182_3704caa7-ce8f-4ce7-8c47-07f9072d7dc9",
+            "username": "32kaden.",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 1,
+            "comment_count": 0,
+            "successful_report_count": 0,
+            "last_online": "2024-08-19T21:32:20+00:00",
+            "last_online_at": "2024-08-19T21:32:20+00:00"
+        },
+        "game_account": {
+            "id": "99fe737a-4461-498c-bfee-24a60a8ad767",
+            "game": "r6",
+            "display_name": "RCP_AXtream",
+            "platform": "uplay",
+            "game_user_id": "af74d233-ca79-48f9-97f4-c55bd54333ad",
+            "game_profile_id": "af74d233-ca79-48f9-97f4-c55bd54333ad",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "7e40c5ba-74c5-47c0-904b-732926377469",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/7e40c5ba-74c5-47c0-904b-732926377469.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/7e40c5ba-74c5-47c0-904b-732926377469.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T18:54:02+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "e69af9ed-5f77-43f9-829d-a98ff7c12539",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:25:26+00:00",
+            "updated_at": "2024-08-19T20:25:26+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:25:26+00:00",
+        "created_at": "2024-08-19T18:54:24+00:00",
+        "updated_at": "2024-08-19T20:25:26+00:00"
+    },
+    {
+        "id": "33714ea6-56b5-4e74-bea8-71dff96aa271",
+        "share_id": "40978",
+        "type": "cheating",
+        "status": "denied",
+        "description": "5 stack cheaters",
+        "is_overlay_report": false,
+        "views": 25,
+        "user": {
+            "id": "340ff8bd-b2eb-4983-a5ea-a48fa3eae992",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/340ff8bd-b2eb-4983-a5ea-a48fa3eae992_b2aef75c-68e6-4d58-bca0-2bc94f3fce7d",
+            "username": "gzoff_",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 3,
+            "successful_report_count": 0,
+            "last_online": "2024-08-24T16:39:49+00:00",
+            "last_online_at": "2024-08-24T16:39:49+00:00"
+        },
+        "game_account": {
+            "id": "ce31e113-f117-4d5d-a8b2-b53411c3f92d",
+            "game": "r6",
+            "display_name": "A7a_xatar",
+            "platform": "uplay",
+            "game_user_id": "741a9538-77e4-45ab-9d3d-59aac9c554ea",
+            "game_profile_id": "741a9538-77e4-45ab-9d3d-59aac9c554ea",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "3d27aa5f-cc07-4d0d-9ef7-6d1af7e16ed5",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/3d27aa5f-cc07-4d0d-9ef7-6d1af7e16ed5.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/3d27aa5f-cc07-4d0d-9ef7-6d1af7e16ed5.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T18:15:30+00:00"
+            },
+            {
+                "id": "a37336f4-6bf3-44da-9405-99d25f931c99",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/a37336f4-6bf3-44da-9405-99d25f931c99.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/a37336f4-6bf3-44da-9405-99d25f931c99.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T18:17:41+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "43603d37-ef71-4a2f-bd05-2e9bb12e7128",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:23:56+00:00",
+            "updated_at": "2024-08-19T20:23:56+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:23:56+00:00",
+        "created_at": "2024-08-19T18:17:50+00:00",
+        "updated_at": "2024-08-19T20:23:56+00:00"
+    },
+    {
+        "id": "19939788-f78e-496e-8a3e-f21caaf3986d",
+        "share_id": "40977",
+        "type": "cheating",
+        "status": "denied",
+        "description": "5 stacks and Swatting. rage cheating",
+        "is_overlay_report": false,
+        "views": 33,
+        "user": {
+            "id": "340ff8bd-b2eb-4983-a5ea-a48fa3eae992",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/340ff8bd-b2eb-4983-a5ea-a48fa3eae992_b2aef75c-68e6-4d58-bca0-2bc94f3fce7d",
+            "username": "gzoff_",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 5,
+            "comment_count": 3,
+            "successful_report_count": 0,
+            "last_online": "2024-08-24T16:39:49+00:00",
+            "last_online_at": "2024-08-24T16:39:49+00:00"
+        },
+        "game_account": {
+            "id": "5dde0454-f1e1-41fe-8e25-8fc5d1701196",
+            "game": "r6",
+            "display_name": "Swatting.",
+            "platform": "uplay",
+            "game_user_id": "e2c564dc-50cb-440a-a1b8-ba333320e923",
+            "game_profile_id": "e2c564dc-50cb-440a-a1b8-ba333320e923",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "2fc1f73a-d74a-426f-af60-fb2eebd6f6c7",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/2fc1f73a-d74a-426f-af60-fb2eebd6f6c7.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/2fc1f73a-d74a-426f-af60-fb2eebd6f6c7.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T18:04:45+00:00"
+            }
+        ],
+        "comment_count": 2,
+        "latest_comment": {
+            "id": "639f4be7-dab6-4fbd-8bba-610f40da2796",
+            "message": "ok",
+            "user": {
+                "id": "340ff8bd-b2eb-4983-a5ea-a48fa3eae992",
+                "avatar": "https://media.reputation.gg/file/reputation-production/avatars/340ff8bd-b2eb-4983-a5ea-a48fa3eae992_b2aef75c-68e6-4d58-bca0-2bc94f3fce7d",
+                "username": "gzoff_",
+                "roles": [],
+                "is_staff": false,
+                "is_admin": false,
+                "is_banned": false,
+                "is_overlay_user": false,
+                "report_count": 5,
+                "comment_count": 3,
+                "successful_report_count": 0,
+                "last_online": "2024-08-24T16:39:49+00:00",
+                "last_online_at": "2024-08-24T16:39:49+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:27:22+00:00",
+            "updated_at": "2024-08-19T20:27:22+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:23:01+00:00",
+        "created_at": "2024-08-19T18:05:03+00:00",
+        "updated_at": "2024-08-19T20:27:22+00:00"
+    },
+    {
+        "id": "c840c46f-1299-4d94-8f30-f3e6c629dcaa",
+        "share_id": "40975",
+        "type": "cheating",
+        "status": "denied",
+        "description": "Hello there is evidence for player: eightn. \nHe is doing closeting, there is not too much evidences, i recommended watch his last games if someone can, or someone play against him. He has propably only WH. At least he is booted by cheater name: teroll",
+        "is_overlay_report": false,
+        "views": 21,
+        "user": {
+            "id": "bebc40cb-c9b6-4d59-a6fb-46b09e330668",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/bebc40cb-c9b6-4d59-a6fb-46b09e330668_9a4e9e7e-b4f0-47d3-b75a-9a1a911f3c61",
+            "username": "canon7740",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": false,
+            "report_count": 4,
+            "comment_count": 0,
+            "successful_report_count": 2,
+            "last_online": "2024-08-19T19:41:58+00:00",
+            "last_online_at": "2024-08-19T19:41:58+00:00"
+        },
+        "game_account": {
+            "id": "8b173a5f-acf8-4a04-82ae-43acf3bfa4d4",
+            "game": "r6",
+            "display_name": "eightn.",
+            "platform": "uplay",
+            "game_user_id": "f715a01c-3b78-40d4-8694-82f7d49c1026",
+            "game_profile_id": "f715a01c-3b78-40d4-8694-82f7d49c1026",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "0b930697-615c-4f6e-a743-e64181b254a8",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/0b930697-615c-4f6e-a743-e64181b254a8.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/0b930697-615c-4f6e-a743-e64181b254a8.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-19T17:50:23+00:00"
+            },
+            {
+                "id": "d7fe6ca4-711d-4ab9-a0ef-381040100523",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/d7fe6ca4-711d-4ab9-a0ef-381040100523.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/d7fe6ca4-711d-4ab9-a0ef-381040100523.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T17:50:58+00:00"
+            },
+            {
+                "id": "d102bf9b-3b16-4dd6-8bf6-3f06f6e57a51",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/d102bf9b-3b16-4dd6-8bf6-3f06f6e57a51.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/d102bf9b-3b16-4dd6-8bf6-3f06f6e57a51.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T17:52:27+00:00"
+            },
+            {
+                "id": "9961095e-2f82-47c8-84a5-38ef3289bd28",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/9961095e-2f82-47c8-84a5-38ef3289bd28.jpg",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/9961095e-2f82-47c8-84a5-38ef3289bd28.jpg",
+                "mime_type": "image/jpeg",
+                "created_at": "2024-08-19T17:52:45+00:00"
+            },
+            {
+                "id": "4875a201-b83d-408a-97d7-aba0f78e6f39",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/4875a201-b83d-408a-97d7-aba0f78e6f39.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/4875a201-b83d-408a-97d7-aba0f78e6f39.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T17:53:06+00:00"
+            }
+        ],
+        "comment_count": 2,
+        "latest_comment": {
+            "id": "e04a7348-6b27-491d-bcad-a05e89fdd0dd",
+            "message": "This report does not include enough evidence for a ban. Please re-submit the report with more evidence.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:21:33+00:00",
+            "updated_at": "2024-08-19T20:21:33+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:21:33+00:00",
+        "created_at": "2024-08-19T17:52:51+00:00",
+        "updated_at": "2024-08-19T20:21:33+00:00"
+    },
+    {
+        "id": "971860cf-92bc-441c-9729-42910853e983",
+        "share_id": "40972",
+        "type": "cheating",
+        "status": "denied",
+        "description": "FULL SPEED CHEAT, WALLHACKS AND SOFT AIM. \n\nusername is House-of-Hollow\n\nTracker link \nhttps://r6.tracker.network/r6siege/profile/ubi/House-of-Hollow/overview\n\nmatch link \nhttps://tracker.gg/r6siege/matches/d049f84f-008f-422e-98ef-8f4184a74e44/overwolf/7441f382-740b-4139-979a-dc032574f2a2\n\nMATCH ID in PHOTO ABOVE",
+        "is_overlay_report": false,
+        "views": 20,
+        "user": {
+            "id": "32d1c522-0daf-4eac-9f44-2b245db9cf32",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/32d1c522-0daf-4eac-9f44-2b245db9cf32_491a8c2f-b8d2-4519-91b3-72669a1ddd09",
+            "username": "wolfo7994",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 17,
+            "comment_count": 7,
+            "successful_report_count": 5,
+            "last_online": "2024-08-25T05:35:18+00:00",
+            "last_online_at": "2024-08-25T05:35:18+00:00"
+        },
+        "game_account": {
+            "id": "fcc5121d-0acc-4312-9526-9fc1df9b1a1e",
+            "game": "r6",
+            "display_name": "House-of-Hollow",
+            "platform": "uplay",
+            "game_user_id": "d613276e-0e8e-4223-8b7d-9bace9670d95",
+            "game_profile_id": "d613276e-0e8e-4223-8b7d-9bace9670d95",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "1d3a4fb6-b262-4f7e-857c-e864dfa111da",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/1d3a4fb6-b262-4f7e-857c-e864dfa111da.png",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/attachments/1d3a4fb6-b262-4f7e-857c-e864dfa111da.png",
+                "mime_type": "image/png",
+                "created_at": "2024-08-19T17:36:03+00:00"
+            },
+            {
+                "id": "d9aa3e15-e938-4817-8519-1ce6a2c6f88f",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/d9aa3e15-e938-4817-8519-1ce6a2c6f88f.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/d9aa3e15-e938-4817-8519-1ce6a2c6f88f.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T17:39:23+00:00"
+            },
+            {
+                "id": "9506737a-dd75-4124-9174-cb66b9b89093",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/9506737a-dd75-4124-9174-cb66b9b89093.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/9506737a-dd75-4124-9174-cb66b9b89093.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T17:39:52+00:00"
+            }
+        ],
+        "comment_count": 2,
+        "latest_comment": {
+            "id": "426de32b-7a3c-4dd7-a430-a9e481d8ce1c",
+            "message": "This user is already banned.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 1,
+            "upvote_count": 1,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T20:16:46+00:00",
+            "updated_at": "2024-08-19T20:16:46+00:00"
+        },
+        "vote_score": 1,
+        "upvote_count": 1,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T20:16:46+00:00",
+        "created_at": "2024-08-19T17:39:56+00:00",
+        "updated_at": "2024-08-19T20:16:46+00:00"
+    },
+    {
+        "id": "e7a10e3c-8d83-4225-ba73-c0fa2dedc7a1",
+        "share_id": "40960",
+        "type": "cheating",
+        "status": "denied",
+        "description": "apparently hes already banned on here... hes been played 200+ matches RAGING and no body has banned him yet...",
+        "is_overlay_report": false,
+        "views": 44,
+        "user": {
+            "id": "b5617e24-87c5-445b-8d5f-0e2678022ea5",
+            "avatar": "https://media.reputation.gg/file/reputation-production/avatars/b5617e24-87c5-445b-8d5f-0e2678022ea5_d9b2a9b0-7d1b-4eda-a3d1-3e7529f26685",
+            "username": ".notmaa",
+            "roles": [],
+            "is_staff": false,
+            "is_admin": false,
+            "is_banned": false,
+            "is_overlay_user": true,
+            "report_count": 36,
+            "comment_count": 8,
+            "successful_report_count": 13,
+            "last_online": "2024-08-25T00:08:31+00:00",
+            "last_online_at": "2024-08-25T00:08:31+00:00"
+        },
+        "game_account": {
+            "id": "c12c847b-43a8-4347-b8d6-94efc4f9759b",
+            "game": "r6",
+            "display_name": "joejoseortiz",
+            "platform": "uplay",
+            "game_user_id": "7d4eec6a-6061-49f3-8554-b32b5b362fa3",
+            "game_profile_id": "7d4eec6a-6061-49f3-8554-b32b5b362fa3",
+            "banned_report_count": 0
+        },
+        "privacy_game_account": null,
+        "attachments": [
+            {
+                "id": "8f829f5a-73d3-44f4-8f86-f8059d7cc722",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/8f829f5a-73d3-44f4-8f86-f8059d7cc722.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/8f829f5a-73d3-44f4-8f86-f8059d7cc722.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T07:01:59+00:00"
+            },
+            {
+                "id": "f18e4ad4-70a6-495a-8abc-1b6dad504e6d",
+                "url": "https://media.reputation.gg/file/reputation-production/media/attachments/f18e4ad4-70a6-495a-8abc-1b6dad504e6d.mp4",
+                "thumbnail_url": "https://media.reputation.gg/file/reputation-production/media/thumbnails/f18e4ad4-70a6-495a-8abc-1b6dad504e6d.jpg",
+                "mime_type": "video/mp4",
+                "created_at": "2024-08-19T07:03:43+00:00"
+            }
+        ],
+        "comment_count": 1,
+        "latest_comment": {
+            "id": "8b85c5cb-1fe9-4fb3-8fa1-3c3918c21388",
+            "message": "This user is already banned. A rep ban doesn't stop the player from playing the game, it only provides awareness to other players.",
+            "user": {
+                "id": "4e1dd97a-ca1f-46ff-862f-431b4b1c138d",
+                "avatar": null,
+                "username": "Admin 8197",
+                "roles": [
+                    "admin"
+                ],
+                "is_staff": true,
+                "is_admin": true,
+                "is_banned": false,
+                "is_overlay_user": true,
+                "report_count": 5,
+                "comment_count": 2087,
+                "successful_report_count": 4,
+                "last_online": "2024-08-25T13:21:16+00:00",
+                "last_online_at": "2024-08-25T13:21:16+00:00"
+            },
+            "vote_score": 0,
+            "upvote_count": 0,
+            "downvote_count": 0,
+            "has_upvoted": false,
+            "has_downvoted": false,
+            "deleted": false,
+            "created_at": "2024-08-19T10:56:26+00:00",
+            "updated_at": "2024-08-19T10:56:26+00:00"
+        },
+        "vote_score": 0,
+        "upvote_count": 0,
+        "downvote_count": 0,
+        "has_upvoted": false,
+        "has_downvoted": false,
+        "anonymous": false,
+        "deleted": false,
+        "status_changed_at": "2024-08-19T10:56:26+00:00",
+        "created_at": "2024-08-19T07:04:03+00:00",
+        "updated_at": "2024-08-19T10:56:26+00:00"
+    }
+]
