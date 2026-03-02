@@ -34,3 +34,15 @@ The latest run uses an 80/20 stratified split (`random_state=42`) on `Scripts/ov
 - False positives are possible.
 - Data quality and labeling quality directly affect performance.
 - Please avoid using this model for harassment or automated punitive action.
+
+## Multi-model benchmark (new)
+Three approaches were benchmarked on the same split:
+- Decision Tree
+- Random Forest
+- Logistic Regression
+
+See:
+- `reports/benchmark_results.json` (machine-readable)
+- `reports/benchmark_summary.md` (human summary)
+
+Current best by F1: **Logistic Regression (0.9855)**.
