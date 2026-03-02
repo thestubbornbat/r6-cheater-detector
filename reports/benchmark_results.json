@@ -1,0 +1,44 @@
+{
+  "dataset": {
+    "samples_total": 3204,
+    "samples_train": 2563,
+    "samples_test": 641,
+    "class_balance": {
+      "cheater": 1900,
+      "non_cheater": 1304
+    }
+  },
+  "split": {
+    "test_size": 0.2,
+    "random_state": 42,
+    "stratified": true,
+    "holdout": true
+  },
+  "results": [
+    {
+      "model": "random_forest",
+      "accuracy": 0.982839313572543,
+      "precision": 0.9946380697050938,
+      "recall": 0.9763157894736842,
+      "f1": 0.9853917662682603,
+      "roc_auc": 0.9978120588828393
+    },
+    {
+      "model": "decision_tree",
+      "accuracy": 0.9750390015600624,
+      "precision": 0.9840425531914894,
+      "recall": 0.9736842105263158,
+      "f1": 0.9788359788359788,
+      "roc_auc": 0.9973835450695705
+    },
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.9703588143525741,
+      "precision": 0.9813333333333333,
+      "recall": 0.968421052631579,
+      "f1": 0.9748344370860927,
+      "roc_auc": 0.9956543657995564
+    }
+  ],
+  "best_model": "random_forest"
+}

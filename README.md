@@ -1,36 +1,64 @@
 # R6 Cheater Detector
 
-Binary ML classifier that predicts whether a Rainbow Six Siege account is likely cheating based on public stat profiles.
+ML project to classify whether a Rainbow Six Siege profile is likely cheating from public stats.
 
-## Project status
-This repository has been cleaned for public presentation and includes a reproducible training/evaluation script.
+## Why this repo is interesting
+- Reproducible **holdout test-set evaluation** (stratified random split, fixed seed).
+- Side-by-side benchmark of **3 model variants**:
+  - Decision Tree
+  - Random Forest
+  - Logistic Regression
+- Visual artifacts for fast project storytelling (ROC, confusion matrices, metric comparison, top features).
 
-## Repository layout
-- `Scripts/train_and_evaluate.py` - reproducible model training + evaluation
-- `Scripts/overview_data.csv` - labeled dataset used for training (`is_cheater` target)
-- `Scripts/detect_cheater.py` - existing live profile inference script (tracker.gg scraping)
-- `reports/metrics.json` - latest benchmark output (generated)
-- `models/decision_tree_overview.pkl` - latest trained model (generated)
+## Dataset + evaluation protocol
+- Source file: `Scripts/overview_data.csv`
+- Target: `is_cheater` (binary)
+- Split: **80/20 stratified train/holdout test**
+- Seed: `42`
+- Holdout test set size: **641** samples
 
-## Quickstart
+## Final holdout results (all 3 variants)
+
+| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
+|---|---:|---:|---:|---:|---:|
+| Random Forest | 0.9828 | 0.9946 | 0.9763 | 0.9854 | 0.9978 |
+| Decision Tree | 0.9750 | 0.9840 | 0.9737 | 0.9788 | 0.9974 |
+| Logistic Regression | 0.9704 | 0.9813 | 0.9684 | 0.9748 | 0.9957 |
+
+Best by F1 on holdout: **Random Forest**.
+
+## Visualizations (generated)
+
+### Model metrics comparison
+![Model metric comparison](reports/figures/model_metric_comparison.png)
+
+### ROC curves (holdout)
+![ROC curves](reports/figures/roc_curves.png)
+
+### Confusion matrices
+- Decision Tree: ![Decision Tree CM](reports/figures/confusion_matrix_decision_tree.png)
+- Random Forest: ![Random Forest CM](reports/figures/confusion_matrix_random_forest.png)
+- Logistic Regression: ![Logistic Regression CM](reports/figures/confusion_matrix_logistic_regression.png)
+
+### Top features (best model)
+![Top features](reports/figures/top_features_best_model.png)
+
+## How to reproduce
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install numpy pandas scikit-learn joblib
-python Scripts/train_and_evaluate.py
+pip install -r requirements.txt
+python Scripts/benchmark_models.py
 ```
 
-## Current benchmark
-The latest run uses an 80/20 stratified split (`random_state=42`) on `Scripts/overview_data.csv`.
+## Output artifacts
+- `reports/benchmark_results.json` — machine-readable benchmark output
+- `reports/benchmark_summary.md` — markdown summary
+- `reports/holdout_predictions.csv` — per-sample holdout predictions for all models
+- `models/*.pkl` — trained pipelines
+- `reports/figures/*.png` — visuals used in this README
 
-- Accuracy: **0.9750**
-- Precision: **0.9840**
-- Recall: **0.9737**
-- F1: **0.9788**
-- ROC-AUC: **0.9974**
-
-## Notes
-- This is a statistical risk model, not a ban decision engine.
+## Caveats
+- This is a risk scoring aid, **not** a ban/disciplinary engine.
 - False positives are possible.
-- Data quality and labeling quality directly affect performance.
-- Please avoid using this model for harassment or automated punitive action.
+- Model quality depends on label and feature quality.
