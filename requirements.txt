@@ -116,3 +116,5 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.11
 wsproto==1.2.0
+joblib==1.5.2
+scikit-learn==1.7.2

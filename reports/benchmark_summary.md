@@ -1,20 +1,23 @@
-# Model Benchmark Summary
+# Holdout Benchmark Summary
 
-Run date: 2026-03-03
-Dataset: `Scripts/overview_data.csv`
-Split: 80/20 stratified (`random_state=42`)
+- Dataset: **3204** samples
+- Holdout test set: **641** samples
+- Split: stratified train/test (80/20), random_state=42
+- Best model by F1: **random_forest**
 
-## Results
+## Model performance (holdout test set)
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---:|---:|---:|---:|---:|
-| Logistic Regression | 0.9828 | 0.9843 | 0.9868 | **0.9855** | 0.9937 |
-| Random Forest | 0.9828 | **0.9946** | 0.9763 | 0.9854 | **0.9978** |
-| Decision Tree | 0.9750 | 0.9840 | 0.9737 | 0.9788 | 0.9974 |
+| random_forest | 0.9828 | 0.9946 | 0.9763 | 0.9854 | 0.9978 |
+| decision_tree | 0.9750 | 0.9840 | 0.9737 | 0.9788 | 0.9974 |
+| logistic_regression | 0.9704 | 0.9813 | 0.9684 | 0.9748 | 0.9957 |
 
-## Winner
-By F1 score, **Logistic Regression** is currently the top model on this split.
+## Generated visuals
 
-## Notes
-- Random Forest has strongest precision and ROC-AUC, with slightly lower recall than Logistic Regression.
-- Logistic Regression reported a convergence warning in this run; scaling + solver tuning may improve stability.
+- `reports/figures/model_metric_comparison.png`
+- `reports/figures/roc_curves.png`
+- `reports/figures/confusion_matrix_decision_tree.png`
+- `reports/figures/confusion_matrix_random_forest.png`
+- `reports/figures/confusion_matrix_logistic_regression.png`
+- `reports/figures/top_features_best_model.png`
